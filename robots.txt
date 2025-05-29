@@ -1,0 +1,3 @@
+User-agent 
+Allow 
+Sitemap httpspedro191102.github.ioPedro-Fabian-Zahir-Flores-Gutierrezsitemap.xml
